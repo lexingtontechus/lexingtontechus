@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🔗 Connect With Us
 [![@lexingtontechus](https://img.shields.io/badge/@lexingtontechus-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lexingtontech.us/)
-[![@lexingtontechus](https://img.shields.io/badge/@lexingtontechus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/c/leixngtontechus/)
+[![@lexingtontechus](https://img.shields.io/badge/@lexingtontechus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/lexingtontech)
 [![@lexingtontechus](https://img.shields.io/badge/@lexingtontechus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lexingtontechus)
 
 ## 🛠 Technologies
