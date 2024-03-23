@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 ### ✨LEXINGTON TECH LLC ✨
 <!--**![](https://storage.fleek-internal.com/a2d41cff-44ad-49e9-a80a-2d1aafc21231-bucket/logo_lxt_dark.png)**-->
 
-# About
-
 ## 🔗 Connect With Us
-[![@lexingtontechus](https://img.shields.io/badge/@lexingtontechus-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lexingtontech.us/)
-[![@lexingtontechus](https://img.shields.io/badge/@lexingtontechus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/lexingtontech)
+[![@lexingtontech](https://img.shields.io/badge/@lexingtontech-23282D?style=for-the-badge)](https://lexingtontech.us)
+[![@lexingtontech](https://img.shields.io/badge/@lexingtontech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/lexingtontech)
 [![@lexingtontechus](https://img.shields.io/badge/@lexingtontechus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lexingtontechus)
 
-## 🛠 Technologies
+## 🛠 Build With Us
 
 ![Medusa Badge](https://img.shields.io/badge/Medusa-000?logo=medusa&logoColor=fff&style=flat)
 ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat)
@@ -50,6 +48,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=lexingtontechus&show_icons=true&hide_border=true&theme=dracula" />  
+<!--<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=lexingtontechus&show_icons=true&hide_border=true&theme=dracula" />  -->
 
 
