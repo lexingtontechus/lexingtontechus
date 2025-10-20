@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Build With Us
 
+![Moonpay Badge](https://img.shields.io/badge/Moonpay-000?logo=moonpay&logoColor=9a38ff&style=flat)
 ![Medusa Badge](https://img.shields.io/badge/Medusa-000?logo=medusa&logoColor=fff&style=flat)
 ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
