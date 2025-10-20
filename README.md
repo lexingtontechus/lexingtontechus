@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ## 🔗 Connect With Us
 [![@lexingtontech](https://img.shields.io/badge/@lexingtontech-23282D?style=for-the-badge)](https://lexingtontech.us)
 [![@lexingtontech](https://img.shields.io/badge/@lexingtontech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/lexingtontech)
-[![@lexingtontechus](https://img.shields.io/badge/@lexingtontechus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lexingtontechus)
 
 ## 🛠 Build With Us
 
